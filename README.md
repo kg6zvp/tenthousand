@@ -37,3 +37,11 @@ A library providing server utilities for 10,000 over Iowa's backend server
 ## Release History
 
 * 0.1.0 Milestone 1 release
+
+## Helpful resources
+
+### Creating and publishing a node.js module
+https://quickleft.com/blog/creating-and-publishing-a-node-js-module/
+
+### Chai assertion library
+http://chaijs.com/api/bdd/
